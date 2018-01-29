@@ -1,1 +1,1 @@
-this is for learn git
+what now i want to do is learning how to operate git using sourcetree
